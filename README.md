@@ -1,6 +1,6 @@
 # Hi! I'm Tomás 👋
 
-Welcome to my profile. I'm a **programming**, **coding**, and **IT** enthusiast. Here you'll find information about my projects, interests, and a bit about myself.
+Welcome to my profile. I'm a **programming**, **coding**, and **IT** enthusiast. Here you'll find information about my interests and a bit about myself.
 
 ## About Me
 
